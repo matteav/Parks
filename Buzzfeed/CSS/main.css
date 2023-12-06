@@ -1,0 +1,65 @@
+body{
+	margin: 10px 10px 10px 10px;
+	background: #e8e8e8;
+}
+	
+
+img{
+	width:330px;
+}
+
+.article{
+	max-width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.story_header{
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+
+h1{
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+
+.byline{
+	font-weight: bold;
+}
+
+.photo{
+	width: 100%;
+}
+
+.photo_caption{
+	color: gray;
+	size: 14px;
+	margin-top: 0px;
+
+}
+
+.story_copy{
+	font-family: Times New Roman;
+	font-size: 20px;
+	margin-top: 10px;
+	padding: 10px 15px;
+	max-width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+a {
+	color: black;
+}
+
+a:hover{
+	color: forestgreen;
+	text-decoration: dotted;
+}
+
+
+
+
+
